@@ -1,0 +1,10 @@
+{
+  "package-name": "a7lmu-airport-rkta-taean",
+  "items": [
+    {
+      "type": "Airport",
+      "content": "RKTA",
+      "revision": 1
+    }
+  ]
+}
